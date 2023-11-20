@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhavakm
 - 👀 I’m interested in Data Science,Tensorflow
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently working with Flask/Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
